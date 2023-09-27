@@ -11,3 +11,7 @@
 	font-family: 'Minecraft';
 	box-sizing: border-box;
 }
+
+body {
+	background: #f7edff;
+}
