@@ -78,3 +78,9 @@ body {
 	background: green;
 	animation: anim 5s linear forwards;
 }
+
+@keyframes anim {
+	100% {
+		width: 0;
+	}
+}
